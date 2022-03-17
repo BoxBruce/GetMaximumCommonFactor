@@ -1,0 +1,2 @@
+# GetMaximumCommonFactor
+这是一个可以计算最大公因式和最小公倍数的软件
